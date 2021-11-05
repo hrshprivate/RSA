@@ -1,0 +1,3 @@
+﻿  diskretka.cpp
+C:\Users\37529\source\repos\diskretka\diskretka\diskretka.cpp(12,13): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+  diskretka.vcxproj -> C:\Users\37529\source\repos\diskretka\Debug\diskretka.exe
